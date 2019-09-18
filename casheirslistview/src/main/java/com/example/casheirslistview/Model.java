@@ -1,4 +1,4 @@
-package com.example.listviewmaster;
+package com.example.casheirslistview;
 
 public class Model {
 

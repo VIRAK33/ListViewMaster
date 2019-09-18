@@ -1,4 +1,4 @@
-package com.example.listviewmaster;
+package com.example.casheirslistview;
 
 import android.app.Activity;
 import android.view.LayoutInflater;
