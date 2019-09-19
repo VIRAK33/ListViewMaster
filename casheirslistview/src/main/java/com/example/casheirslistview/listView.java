@@ -22,7 +22,7 @@ public class listView extends AppCompatActivity {
 
 
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.listview);
+        setContentView(R.layout.listcashiers);
         edit =findViewById(R.id.edit) ;
 
         casheirList = new ArrayList<Model>();

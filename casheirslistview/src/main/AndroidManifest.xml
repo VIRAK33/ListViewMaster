@@ -2,8 +2,6 @@
     package="com.example.casheirslistview" >
 
     <application>
-
         <activity android:name=".listView"/>
-
     </application>
 </manifest>
